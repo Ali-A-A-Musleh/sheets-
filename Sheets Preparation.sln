@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheets Preparation", "Sheets Preparation\Sheets Preparation.csproj", "{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EXE|Any CPU = EXE|Any CPU
+		Release|Any CPU = Release|Any CPU
+		X64|Any CPU = X64|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.EXE|Any CPU.ActiveCfg = EXE|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.EXE|Any CPU.Build.0 = EXE|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.EXE|Any CPU.Deploy.0 = EXE|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.X64|Any CPU.ActiveCfg = Debug|Any CPU
+		{261474BB-78A6-4B53-A7CA-5AB1F2F4C4D7}.X64|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
